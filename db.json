@@ -1,0 +1,27 @@
+{
+    "concert":[
+        {"id": 1, "name":"FISIPHORIA 2022", "tanggal":"09 OKtober 2022", "guest_star":["Tulus", "Good Morning Everyone", "Guyon Waton"], "lokasi":"Stadion Diponegoro", "urlToImage":"https://th.bing.com/th/id/OIP.Pv55Av-0EQBgwp06IYRkuAHaFj?pid=ImgDet&rs=1", "harga": "70.000"},
+        {"id":2, "name":"DIPOFEST 2022", "tanggal":"23 Oktober 2022", "guest_star":["Sheila on 7", "RAN", "Soegi Bornean"], "lokasi":"Stadion Universitas Diponegoro", "urlToImage":"https://th.bing.com/th/id/OIP.Pv55Av-0EQBgwp06IYRkuAHaFj?pid=ImgDet&rs=1", "harga":"100.000"},
+        {"id":3, "name":"ENUFORIA 2022", "tanggal":"27 November 2022", "guest_star":["Hindia", "Feast", "Good Morning Everyone"], "lokasi":"Sam Poo Kong", "urlToImage":"https://th.bing.com/th/id/OIP.Pv55Av-0EQBgwp06IYRkuAHaFj?pid=ImgDet&rs=1", "harga":"80.000"},
+        {"id":4, "name":"MAHAKARYA 2022", "tanggal":"25 November 2022", "guest_star":["Kelompok Penerbang Roket", "Denny Caknan"], "lokasi":"Stadion Diponegoro", "urlToImage":"https://th.bing.com/th/id/OIP.Pv55Av-0EQBgwp06IYRkuAHaFj?pid=ImgDet&rs=1", "harga":"60.000"}
+    ],
+    "detaillokasi":[
+        {"lokasi":"Stadion Diponegoro", "parkir":"2.000 motor 100 mobil", "pengunjung":"5000", "img1":"https://th.bing.com/th/id/OIP.s0Ze8AqQxu8Ag27DoWzzKgHaFj?w=232&h=180&c=7&r=0&o=5&pid=1.7", "image":[
+            "http://semarang101.files.wordpress.com/2011/05/stadion-diponegoro.jpg",
+            "https://i.ytimg.com/vi/s1xPaEMjPbA/maxresdefault.jpg",
+            "https://fastly.4sqi.net/img/general/600x600/6567804_wbM0x4eAziIJAfU1qTlyMOkeaAmh0hzFEG0x1jGgX08.jpg"
+            ]
+        },
+        {"lokasi":"Stadion Universitas Diponegoro", "parkir":"1.000 motor 100 mobil", "pengunjung":"7000", "img1":"https://th.bing.com/th/id/OIP.px2OTUXyIqFkisZ7g47HtgHaFj?w=221&h=180&c=7&r=0&o=5&pid=1.7", "image":[
+            "https://th.bing.com/th/id/OIP.6ko8WCgZBWzkw-ybp-myKAHaCY?pid=ImgDet&rs=1",
+            "https://fastly.4sqi.net/img/general/200x200/42531535_wubLSr3ZqKtgz9EZDLFqsY4U5ceXPrvjc15FeskvJ8Y.jpg",
+            "https://fastly.4sqi.net/img/general/200x200/50017293_r9-BD_Xz2euPO_bu5CWvoablBXxktmm97Fp1N6v_5lA.jpg",
+            "https://fastly.4sqi.net/img/general/200x200/36817768_VNG7aBDB1glfDoLjBSe_OPNtT11X8KUoRG5HKthjR4w.jpg"
+        ]},
+        {"lokasi":"Sam Poo Kong", "parkir":"1800 motor 100 mobil", "pengunjung":"5000", "img1":"https://1.bp.blogspot.com/-FT7KhqLRe08/VcO16ITTiiI/AAAAAAAACBA/AzgqgCwEfy4/s1600/20150721_153436.jpg", "image":[
+            "https://travelspromo.com/wp-content/uploads/2019/04/Klenteng-Sam-Po-Kong-Malam-Hari-Resa-Ardianto-640x360.jpg",
+            "https://thumb.viva.co.id/media/frontend/thumbs3/2017/01/02/5869f3a6c759e-wisata-klenteng-sam-poo-kong_665_374.jpg",
+            "http://1.bp.blogspot.com/-AHbxwjzp0_k/Tvmkk7B-V7I/AAAAAAAAAjk/6GJFoxmpKso/s400/05.jpg"
+        ]}
+    ]
+}
